@@ -1,8 +1,11 @@
+*{
+box-sizing:border-box
+}
 @media  (max-width:670px){
   .top-wrapper{
-    width:50%;
+    width:100%;
   }
-  .favorite{
+  .favorite-wrapper{
     width: 100%;
   }
 
