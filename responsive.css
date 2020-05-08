@@ -2,11 +2,6 @@
 box-sizing:border-box
 }
 @media  (max-width:670px){
-  .top-wrapper{
-    width:100%;
-  }
-  .favorite-wrapper{
-    width: 100%;
-  }
+  
 
 }
