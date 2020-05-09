@@ -1,13 +1,20 @@
-
 @media  (max-width:768px){
   .top-wrapper{
     width:100%;
   }
+  .favorite-wrapper{
+    width:100%;
+  }
   .photo {
-    width:200px;
-    height:250px;
+    width:400px;
+    height:350px;
 
   }
     
   }
+  
+
+  
+
+
 }
