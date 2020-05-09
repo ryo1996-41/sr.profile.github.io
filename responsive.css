@@ -1,1 +1,13 @@
 
+@media  (max-width:670px){
+  .top-wrapper{
+    width:100%;
+  }
+  .photo {
+    width:200px;
+    height:250px;
+
+  }
+    
+  }
+}
