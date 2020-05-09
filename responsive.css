@@ -1,18 +1,45 @@
-@media  (max-width:768px){
-  .top-wrapper{
+*{
+  box-sizing-border-box;
+}
+@media  (max-width:750px){
+  body{
     width:100%;
-  }
-  .favorite-wrapper{
-    width:100%;
-  }
-  .photo {
-    width:400px;
-    height:350px;
-
-  }
-    
   }
   
+  .photo{
+    width:300px;
+    height:200px;
+    margin:0 auto;
+    border-radius:50%;
+    
+
+   
+  }
+  .image2{
+    display:none;
+
+}
+ 
+
+ .profile{
+   float:none;
+   
+  
+
+ }
+ .profile h3{
+   font-size:20px;
+ }
+ .contents{
+   font-size:15px;
+    
+ }
+    
+  }
+  .favorite{
+    width: 100%;
+  }
+
 
   
 
