@@ -5,36 +5,49 @@
   body{
     width:100%;
   }
-  
-  .photo{
-    width:300px;
-    height:200px;
-    margin:0 auto;
-    border-radius:50%;
+ .top-wrapper{
+    width:100%; 
+   padding-bottom:0;
+    margin-left: 90px;
     
+ }
+  .images{
+    width:100%;
   }
+  .photo{
+    width:230px;
+    height:200px;
+    border-radius:50%;
+    display: block;
+  }
+  
   .image2{
     display:none;
 
 }
  
-
  .profile{
+   text-align: center;
    float:none;
-   
+   padding: 30px 0 40px 0;
   
-
  }
  .profile h3{
-   font-size:20px;
+   font-size:25px;
  }
  .contents{
-   font-size:15px;
+   font-size:20px;
     
+ }
+ .content{
+   width:100%;
+
+ }
+ .title{
+   font-size:25px;
  }
      
   .favorite{
     width: 100%;
   }
 }
-
